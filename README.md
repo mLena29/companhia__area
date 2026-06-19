@@ -1,6 +1,6 @@
 # Companhia Aerea - Banco de Dados II
 
-## Descricao
+## Descrição 
 Sistema de status de voos usando PostgreSQL + Redis + Python.
 
 ## Tecnologias
